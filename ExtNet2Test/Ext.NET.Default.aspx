@@ -2,17 +2,6 @@
 
 <%@ Register assembly="Ext.Net" namespace="Ext.Net" tagprefix="ext" %>
 
-<script runat="server">
-    protected void Button1_Click(object sender, DirectEventArgs e)
-    {
-        X.Msg.Notify(new NotificationConfig { 
-            Icon  = Icon.Accept,
-            Title = "Working",
-            Html  = this.TextArea1.Text
-        }).Show();
-    }
-</script>
-
 <!DOCTYPE html>
     
 <html>
@@ -48,8 +37,11 @@
                     runat="server" 
                     Text="Submit"
                     Icon="Accept" 
-                    OnDirectClick="Button1_Click"
-                    />
+                    >
+                    <Listeners>
+                        <Click Handler="Ext.MessageBox.alert('Hello', #{TextArea1}.getValue())"></Click>
+                    </Listeners>
+                </ext:Button>
             </Buttons>
         </ext:Window>
     </form>
