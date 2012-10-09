@@ -21,7 +21,7 @@
 </head>
 <body>
     <form runat="server">
-        <ext:ResourceManager runat="server" Theme="Gray" />
+        <ext:ResourceManager runat="server" Theme="Gray" DisableViewState="True" />
         
         <a href="http://www.ext.net/"><img src="http://speed.ext.net/identity/extnet-logo-small.png" /></a>
 
@@ -48,7 +48,7 @@
                     runat="server" 
                     Text="Submit"
                     Icon="Accept" 
-                    OnDirectClick="Button1_Click" 
+                    OnDirectClick="Button1_Click"
                     />
             </Buttons>
         </ext:Window>
