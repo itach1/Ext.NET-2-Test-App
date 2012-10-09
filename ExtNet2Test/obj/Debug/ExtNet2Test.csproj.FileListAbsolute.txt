@@ -1,0 +1,14 @@
+D:\VS Projects\ExtNet2Test\ExtNet2Test\bin\ExtNet2Test.dll
+D:\VS Projects\ExtNet2Test\ExtNet2Test\bin\ExtNet2Test.pdb
+D:\VS Projects\ExtNet2Test\ExtNet2Test\bin\Ext.Net.dll
+D:\VS Projects\ExtNet2Test\ExtNet2Test\bin\Ext.Net.Utilities.dll
+D:\VS Projects\ExtNet2Test\ExtNet2Test\bin\Newtonsoft.Json.dll
+D:\VS Projects\ExtNet2Test\ExtNet2Test\bin\Transformer.NET.dll
+D:\VS Projects\ExtNet2Test\ExtNet2Test\bin\Ext.Net.xml
+D:\VS Projects\ExtNet2Test\ExtNet2Test\bin\Ext.Net.Utilities.xml
+D:\VS Projects\ExtNet2Test\ExtNet2Test\bin\Newtonsoft.Json.xml
+D:\VS Projects\ExtNet2Test\ExtNet2Test\bin\Transformer.NET.xml
+D:\VS Projects\ExtNet2Test\ExtNet2Test\obj\Debug\ResolveAssemblyReference.cache
+D:\VS Projects\ExtNet2Test\ExtNet2Test\obj\Debug\ExtNet2Test.dll
+D:\VS Projects\ExtNet2Test\ExtNet2Test\obj\Debug\ExtNet2Test.pdb
+D:\VS Projects\ExtNet2Test\ExtNet2Test\bin\Ext.Net.pdb
